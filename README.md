@@ -1,2 +1,1 @@
-# Supply-Mission
-Whitehat Jr. 
+# SupplyMission
